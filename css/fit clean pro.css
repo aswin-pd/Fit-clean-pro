@@ -1,0 +1,315 @@
+.bg{
+    padding-bottom: 0px;
+    width: 100%;
+    background-color: red;
+}
+.card-img-top{
+    height:700px ;
+    width:1521px ;
+}
+.card{
+    border: 0px;
+}
+.logo{
+    width: 150px;
+    height: 50px;
+}
+
+
+.nav{
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    padding-right: 40px;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+.btn1{
+    border: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+    margin-top: 5px;
+    padding-bottom: 3px;
+    padding-top: 1px;
+}
+.btn2{
+    border: 0px;
+    background-color:#0b1f3a;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+    margin-top: 5px;
+    padding-bottom: 3px;
+    padding-top: 1px;
+}
+.buttons{
+    padding-right: 40px;
+}
+.heading{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    padding-top: 90px;
+}
+.tagline{
+    text-align: center;
+    font-size:20px;
+    color: rgb(213, 213, 213);
+    padding-top: 20px;
+}
+.btn1s{
+    margin-left: 580px;
+    border: 0px;
+    background-color:#0b1f3a;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 30px;
+    margin-top: 25px;
+    padding-bottom: 35px;
+    padding-top: 5px;
+}
+.btn1w{
+    border: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 30px;
+    margin-top: 25px;
+    padding-bottom: 35px;
+    padding-top: 5px;
+}
+.about{
+    padding-bottom: 50px;
+    background-color: white;
+}
+.abtimg{
+    height: 400px;
+    width: 600px;
+    float: right;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.aboutus{
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 50px;
+    color: #0b1f3a;
+    
+}
+.abtdf{
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 20px;
+    color: gray;
+}
+.btn3{
+    color: white;
+    background-color: #0b1f3a;
+    padding:10px;
+    margin-top: 40px;
+    border: 0px;
+    border-radius: 15px;
+    margin-left: 40px;
+}
+
+.ourservices{
+    padding-bottom: 40px;
+    background-color: rgb(225, 225, 225);
+}
+.services{
+    text-align:center;
+    font-size: 50px;
+    color: #0b1f3a;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    
+}
+.servdf{
+    text-align: center;
+    color: gray;
+    font-size:18px;
+    padding-bottom: 40px;
+}
+.btn4{
+    color: white;
+    background-color: #0b1f3a;
+    padding:10px;
+    margin-top: 40px;
+    border: 0px;
+    border-radius: 15px;
+    margin-left: 700px;
+}
+
+.card-title2{
+    color: white;
+    padding-top: 220px;
+}
+.packprice{
+    padding-bottom: 50px;
+    background-color: rgb(255, 255, 255);
+}
+.pp{
+    text-align:center;
+    font-size: 50px;
+    color: #0b1f3a;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    padding-top: 30px;
+}
+.nav{
+    justify-content: center;
+    color: #0b1f3a;
+}
+.nav-link{
+    color:#0b1f3a;
+}
+.card1 {
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+     
+}
+
+.price {
+      font-size:30px;
+      color: #007bff;
+}
+.card-title {
+      font-weight: bold;
+      margin-bottom: 0px !important;
+}
+.plan-type {
+      color: gray;
+      margin-bottom: 0px;
+}
+.pli{
+    text-align: left;
+}
+.list-unstyled{
+    list-style: disc !important;
+    padding-left: 60px !important;
+}
+
+.brandwe{
+    padding-bottom: 0px;
+    background-color: rgb(255, 255, 255);
+}
+.brndserv{
+    text-align:center;
+    font-size: 50px;
+    color: #0b1f3a;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;   
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.testm{
+    padding-bottom: 30px;
+    background-color:#0b1f3a;
+}
+.testmnl{
+    text-align:center;
+    font-size: 50px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;   
+}
+.tagline2{
+    text-align: center;
+    font-size:15px;
+    color:rgb(213, 213, 213);
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+.testimonial-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    height: 100%;
+}
+
+.testimonial-card img {
+    width: 50px;
+    height: 50px;
+    border-radius:20px;
+}
+.footer {
+  background-color: #ffffff;
+  color: #001F3F;
+  padding: 40px 24px;
+  font-family: sans-serif;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 50px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-logo .logo-img {
+  width: 160px;
+  margin-bottom: 8px;
+}
+
+.footer-logo .tagline {
+ text-align: left;
+  font-size: 16px;
+  color: #001F3F;
+  padding-top: 2px;
+}
+
+.footer-links h3,
+.footer-contact h3 {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.footer-links ul,
+.footer-contact ul {
+  list-style: none;
+  padding: 0;
+  font-size: 14px;
+  color: #001F3F;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #001F3F;
+}
+
+.footer-links a:hover {
+  color: rgb(14, 189, 232);
+}
+
+.footer-bottom {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 12px;
+  color: #3c3c3c;
+}
